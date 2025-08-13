@@ -1,5 +1,5 @@
 # CrypTrade
 
 integrantes: Santiago Suarez Ramirez ID:537914
-Miguel Angel Jaramillo Hurtado ID:
+Miguel Angel Jaramillo Hurtado ID:212882
 
