@@ -1,0 +1,496 @@
+2025-08-13 20:47:44 [main] INFO  parcial1.Services.SimulacionMercado - Mercado sincronizado. 0 criptomonedas cargadas.
+2025-08-13 20:47:44 [main] WARN  parcial1.Services.SimulacionMercado - Precio inválido para BTC: 0.0
+2025-08-13 20:47:44 [main] WARN  parcial1.Services.SimulacionMercado - Precio inválido para BTC: 0.0
+2025-08-13 20:48:07 [main] INFO  parcial1.Services.SimulacionMercado - Mercado sincronizado. 0 criptomonedas cargadas.
+2025-08-13 20:48:07 [main] WARN  parcial1.Services.SimulacionMercado - Precio inválido para BTC: 0.0
+2025-08-13 20:48:07 [main] WARN  parcial1.Services.SimulacionMercado - Precio inválido para BTC: 0.0
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Hedera Hashgraph por $1092.284 COP | Total compras pendientes: 1
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1591200.0 COP | Total compras pendientes: 2
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2579.8559999999998 COP | Total compras pendientes: 3
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Nexo por $5480.0 COP | Total compras pendientes: 4
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Hedera Hashgraph por $1092.284 COP | Total ventas pendientes: 1
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Crypto.com Chain por $668.788 COP | Total compras pendientes: 5
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sei por $1444.708 COP | Total compras pendientes: 6
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Lido DAO por $6000.0 COP | Total compras pendientes: 7
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sei por $1444.708 COP | Total ventas pendientes: 2
+2025-08-13 21:56:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2579.8559999999998 COP | Total compras pendientes: 8
+2025-08-13 21:56:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sui por $16440.0 COP | Total compras pendientes: 1
+2025-08-13 21:56:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sui por $16440.0 COP | Total ventas pendientes: 1
+2025-08-13 21:56:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra SPX6900 por $7080.0 COP | Total compras pendientes: 2
+2025-08-13 21:58:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Render por $16680.0 COP | Total compras pendientes: 1
+2025-08-13 21:58:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Render por $16680.0 COP | Total ventas pendientes: 1
+2025-08-13 21:58:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Algorand por $1149.004 COP | Total compras pendientes: 2
+2025-08-13 21:58:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Algorand por $1149.004 COP | Total ventas pendientes: 2
+2025-08-13 21:58:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra KuCoin Shares por $53760.0 COP | Total compras pendientes: 3
+2025-08-13 21:58:33 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Polkadot por $17360.0 COP | Total compras pendientes: 4
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1017.052 COP | Total compras pendientes: 1
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Binance Staked SOL por $886800.0 COP | Total compras pendientes: 2
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra ChainLink por $96120.0 COP | Total compras pendientes: 3
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OKB por $416040.0 COP | Total compras pendientes: 4
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende ChainLink por $96120.0 COP | Total ventas pendientes: 1
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Solana por $830240.0 COP | Total compras pendientes: 5
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra UNUS SED LEO por $36960.0 COP | Total compras pendientes: 6
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Solana por $830240.0 COP | Total compras pendientes: 7
+2025-08-13 22:03:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Tezos por $3539.1639999999998 COP | Total compras pendientes: 8
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Name Service por $118480.0 COP | Total compras pendientes: 1
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Name Service por $118480.0 COP | Total ventas pendientes: 1
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OKB por $417600.0 COP | Total compras pendientes: 2
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Kaspa por $401.976 COP | Total compras pendientes: 3
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Story por $23680.0 COP | Total compras pendientes: 4
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende OKB por $417600.0 COP | Total ventas pendientes: 2
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97400.0 COP | Total compras pendientes: 5
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Kaspa por $401.976 COP | Total ventas pendientes: 3
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OFFICIAL TRUMP por $40400.0 COP | Total compras pendientes: 6
+2025-08-13 22:07:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende OFFICIAL TRUMP por $40400.0 COP | Total ventas pendientes: 4
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Conflux por $826.8760000000001 COP | Total compras pendientes: 1
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ondo por $4360.0 COP | Total compras pendientes: 2
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ondo por $4360.0 COP | Total ventas pendientes: 1
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1592760.0 COP | Total compras pendientes: 3
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bittensor por $1592760.0 COP | Total ventas pendientes: 2
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Conflux por $826.8760000000001 COP | Total ventas pendientes: 3
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Polkadot por $17400.0 COP | Total compras pendientes: 4
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Uniswap por $48480.0 COP | Total compras pendientes: 5
+2025-08-13 22:07:31 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2585.2200000000003 COP | Total compras pendientes: 6
+2025-08-13 22:08:38 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stellar por $1864.9119999999998 COP | Total compras pendientes: 1
+2025-08-13 22:08:39 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra IOTA por $897.3879999999999 COP | Total compras pendientes: 2
+2025-08-13 22:08:40 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende IOTA por $897.3879999999999 COP | Total ventas pendientes: 1
+2025-08-13 22:08:41 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Stellar por $1864.9119999999998 COP | Total ventas pendientes: 2
+2025-08-13 22:08:42 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra SPX6900 por $7080.0 COP | Total compras pendientes: 3
+2025-08-13 22:08:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende SPX6900 por $7080.0 COP | Total ventas pendientes: 3
+2025-08-13 22:08:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Worldcoin por $4520.0 COP | Total compras pendientes: 4
+2025-08-13 22:08:45 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Worldcoin por $4520.0 COP | Total ventas pendientes: 4
+2025-08-13 22:08:55 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra KuCoin Shares por $53600.0 COP | Total compras pendientes: 1
+2025-08-13 22:08:55 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende KuCoin Shares por $53600.0 COP | Total ventas pendientes: 1
+2025-08-13 22:08:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1014.184 COP | Total compras pendientes: 2
+2025-08-13 22:08:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1592760.0 COP | Total compras pendientes: 3
+2025-08-13 22:08:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bittensor por $1592760.0 COP | Total ventas pendientes: 2
+2025-08-13 22:08:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Dogecoin por $1014.184 COP | Total ventas pendientes: 3
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Render Token por $16800.0 COP | Total compras pendientes: 1
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra dogwifhat por $4240.0 COP | Total compras pendientes: 2
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Litecoin por $531000.0 COP | Total compras pendientes: 3
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende dogwifhat por $4240.0 COP | Total ventas pendientes: 1
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Render Token por $16800.0 COP | Total ventas pendientes: 2
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Algorand por $1154.024 COP | Total compras pendientes: 4
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Shiba Inu por $0.056 COP | Total compras pendientes: 5
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Algorand por $1154.024 COP | Total ventas pendientes: 3
+2025-08-13 22:09:05 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1011920.0 COP | Total compras pendientes: 6
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Solana por $826120.0 COP | Total compras pendientes: 1
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Solana por $826120.0 COP | Total ventas pendientes: 1
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Floki Inu por $0.488 COP | Total compras pendientes: 2
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Floki Inu por $0.488 COP | Total ventas pendientes: 2
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OFFICIAL TRUMP por $40400.0 COP | Total compras pendientes: 3
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Polkadot por $17400.0 COP | Total compras pendientes: 4
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1011920.0 COP | Total compras pendientes: 5
+2025-08-13 22:09:20 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra IOTA por $897.3879999999999 COP | Total compras pendientes: 6
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aave por $1335560.0 COP | Total compras pendientes: 1
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra VeChain por $107.352 COP | Total compras pendientes: 2
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Flare por $94.368 COP | Total compras pendientes: 3
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende VeChain por $107.352 COP | Total ventas pendientes: 1
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Flare por $94.368 COP | Total ventas pendientes: 2
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra SPX6900 por $7080.0 COP | Total compras pendientes: 4
+2025-08-13 22:09:28 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fartcoin por $4600.0 COP | Total compras pendientes: 5
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Hyperliquid por $191200.0 COP | Total compras pendientes: 1
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra XRP por $13400.0 COP | Total compras pendientes: 2
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Hyperliquid por $191200.0 COP | Total ventas pendientes: 1
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra USD Coin por $3998.224 COP | Total compras pendientes: 3
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende USD Coin por $3998.224 COP | Total ventas pendientes: 2
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende XRP por $13400.0 COP | Total ventas pendientes: 3
+2025-08-13 22:09:48 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Litecoin por $531000.0 COP | Total compras pendientes: 4
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5560.0 COP | Total compras pendientes: 1
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Virtual Protocol por $5560.0 COP | Total ventas pendientes: 1
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sui por $16440.0 COP | Total compras pendientes: 2
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Vaulta por $2307.66 COP | Total compras pendientes: 3
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sui por $16440.0 COP | Total ventas pendientes: 2
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Vaulta por $2307.66 COP | Total ventas pendientes: 3
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Vaulta por $2307.66 COP | Total compras pendientes: 4
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pi por $1616.348 COP | Total compras pendientes: 5
+2025-08-13 22:09:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2585.2200000000003 COP | Total compras pendientes: 6
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Kaia por $635.2560000000001 COP | Total compras pendientes: 1
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bitcoin Cash por $2489280.0 COP | Total compras pendientes: 2
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pudgy Penguins por $152.764 COP | Total compras pendientes: 3
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Avalanche por $103560.0 COP | Total compras pendientes: 4
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Nexo por $5480.0 COP | Total compras pendientes: 5
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Kaia por $635.2560000000001 COP | Total ventas pendientes: 1
+2025-08-13 22:09:58 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pudgy Penguins por $152.764 COP | Total ventas pendientes: 2
+2025-08-13 22:10:02 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stacks por $3228.704 COP | Total compras pendientes: 1
+2025-08-13 22:10:02 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Stacks por $3228.704 COP | Total ventas pendientes: 1
+2025-08-13 22:10:02 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra TON Coin por $14320.0 COP | Total compras pendientes: 2
+2025-08-13 22:10:02 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende TON Coin por $14320.0 COP | Total ventas pendientes: 2
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OKB por $417600.0 COP | Total compras pendientes: 1
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sui por $16440.0 COP | Total compras pendientes: 2
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aerodrome Finance por $5400.0 COP | Total compras pendientes: 3
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra JasmyCoin por $74.976 COP | Total compras pendientes: 4
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sui por $16440.0 COP | Total ventas pendientes: 1
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende OKB por $417600.0 COP | Total ventas pendientes: 2
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende JasmyCoin por $74.976 COP | Total ventas pendientes: 3
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 5
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 4
+2025-08-13 22:10:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Aerodrome Finance por $5400.0 COP | Total ventas pendientes: 5
+2025-08-13 22:10:09 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97320.0 COP | Total compras pendientes: 1
+2025-08-13 22:10:09 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Classic por $97320.0 COP | Total ventas pendientes: 1
+2025-08-13 22:10:09 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3991.944 COP | Total compras pendientes: 2
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cardano por $3901.64 COP | Total compras pendientes: 1
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97120.0 COP | Total compras pendientes: 2
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sei por $1432.9080000000001 COP | Total compras pendientes: 3
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Flare por $94.452 COP | Total compras pendientes: 4
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sei por $1432.9080000000001 COP | Total ventas pendientes: 1
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Cardano por $3901.64 COP | Total ventas pendientes: 2
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Flare por $94.452 COP | Total ventas pendientes: 3
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Conflux por $816.78 COP | Total compras pendientes: 5
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Mantle por $4440.0 COP | Total compras pendientes: 6
+2025-08-13 22:16:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5560.0 COP | Total compras pendientes: 7
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cardano por $3932.448 COP | Total compras pendientes: 1
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Cardano por $3932.448 COP | Total ventas pendientes: 1
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Solana por $831840.0 COP | Total compras pendientes: 2
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fasttoken por $18280.0 COP | Total compras pendientes: 3
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra TON Coin por $14320.0 COP | Total compras pendientes: 4
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Solana por $831840.0 COP | Total ventas pendientes: 2
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1596480.0 COP | Total compras pendientes: 5
+2025-08-13 22:24:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Crypto.com Chain por $667.0559999999999 COP | Total compras pendientes: 6
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra XinFin Network por $358.49199999999996 COP | Total compras pendientes: 1
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fartcoin por $4600.0 COP | Total compras pendientes: 2
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra JasmyCoin por $75.02799999999999 COP | Total compras pendientes: 3
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Filecoin por $11000.0 COP | Total compras pendientes: 4
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Fartcoin por $4600.0 COP | Total ventas pendientes: 1
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dai por $3998.7200000000003 COP | Total compras pendientes: 5
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Filecoin por $11000.0 COP | Total ventas pendientes: 2
+2025-08-13 22:26:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende XinFin Network por $358.49199999999996 COP | Total ventas pendientes: 3
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra NEAR Protocol por $12200.0 COP | Total compras pendientes: 1
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende NEAR Protocol por $12200.0 COP | Total ventas pendientes: 1
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Nexo por $5480.0 COP | Total compras pendientes: 2
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Nexo por $5480.0 COP | Total ventas pendientes: 2
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cosmos por $19640.0 COP | Total compras pendientes: 3
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dai por $3998.996 COP | Total compras pendientes: 4
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Dai por $3998.996 COP | Total ventas pendientes: 3
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bitget Token por $19320.0 COP | Total compras pendientes: 5
+2025-08-13 22:27:59 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bitget Token por $19320.0 COP | Total ventas pendientes: 4
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pepe por $0.052 COP | Total compras pendientes: 1
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Tether por $3996.044 COP | Total compras pendientes: 2
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stacks por $3227.32 COP | Total compras pendientes: 3
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pepe por $0.052 COP | Total ventas pendientes: 1
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra TON Station por $1571.46 COP | Total compras pendientes: 4
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena por $3090.224 COP | Total compras pendientes: 5
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pendle por $22400.0 COP | Total compras pendientes: 6
+2025-08-13 22:37:54 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Flare por $94.744 COP | Total compras pendientes: 7
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2585.472 COP | Total compras pendientes: 1
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Immutable por $2585.472 COP | Total ventas pendientes: 1
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Crypto.com Chain por $665.452 COP | Total compras pendientes: 2
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Crypto.com Chain por $665.452 COP | Total ventas pendientes: 2
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1014880.0 COP | Total compras pendientes: 3
+2025-08-13 22:38:14 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Jito Staked SOL por $1014880.0 COP | Total ventas pendientes: 3
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fetch.ai por $3051.3880000000004 COP | Total compras pendientes: 1
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Fetch.ai por $3051.3880000000004 COP | Total ventas pendientes: 1
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Maker por $7965680.0 COP | Total compras pendientes: 2
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Maker por $7965680.0 COP | Total ventas pendientes: 2
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Litecoin por $530680.0 COP | Total compras pendientes: 3
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Litecoin por $530680.0 COP | Total ventas pendientes: 3
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Monero por $1005560.0 COP | Total compras pendientes: 4
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Monero por $1005560.0 COP | Total ventas pendientes: 4
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1014880.0 COP | Total compras pendientes: 5
+2025-08-13 22:38:23 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Jito Staked SOL por $1014880.0 COP | Total ventas pendientes: 5
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra KuCoin Shares por $53720.0 COP | Total compras pendientes: 1
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende KuCoin Shares por $53720.0 COP | Total ventas pendientes: 1
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra NEAR Protocol por $12160.0 COP | Total compras pendientes: 2
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra ChainLink por $96240.0 COP | Total compras pendientes: 3
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende ChainLink por $96240.0 COP | Total ventas pendientes: 2
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1599440.0 COP | Total compras pendientes: 4
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1012.14 COP | Total compras pendientes: 5
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende NEAR Protocol por $12160.0 COP | Total ventas pendientes: 3
+2025-08-13 22:38:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1014880.0 COP | Total compras pendientes: 6
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Nexo por $5480.0 COP | Total compras pendientes: 1
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Nexo por $5480.0 COP | Total ventas pendientes: 1
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1013600.0 COP | Total compras pendientes: 2
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Jito Staked SOL por $1013600.0 COP | Total ventas pendientes: 2
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Vaulta por $2299.096 COP | Total compras pendientes: 3
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 4
+2025-08-13 22:39:27 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Vaulta por $2299.096 COP | Total ventas pendientes: 3
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stacks por $3227.52 COP | Total compras pendientes: 1
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ondo por $4400.0 COP | Total compras pendientes: 2
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra XRP por $13320.0 COP | Total compras pendientes: 3
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Monero por $1005320.0 COP | Total compras pendientes: 4
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ondo por $4400.0 COP | Total ventas pendientes: 1
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aptos por $20520.0 COP | Total compras pendientes: 5
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1011.0600000000001 COP | Total compras pendientes: 6
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Aptos por $20520.0 COP | Total ventas pendientes: 2
+2025-08-13 22:41:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OKB por $415640.0 COP | Total compras pendientes: 7
+2025-08-13 22:41:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97480.0 COP | Total compras pendientes: 1
+2025-08-13 22:41:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Classic por $97480.0 COP | Total ventas pendientes: 1
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 1
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena por $3094.328 COP | Total compras pendientes: 2
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 1
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena por $3094.328 COP | Total ventas pendientes: 2
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra dogwifhat por $4240.0 COP | Total compras pendientes: 3
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende dogwifhat por $4240.0 COP | Total ventas pendientes: 3
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Floki Inu por $0.488 COP | Total compras pendientes: 4
+2025-08-13 22:41:18 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Floki Inu por $0.488 COP | Total ventas pendientes: 4
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Celestia por $8080.0 COP | Total compras pendientes: 1
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Celestia por $8080.0 COP | Total ventas pendientes: 1
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pendle por $22440.0 COP | Total compras pendientes: 2
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 3
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bitcoin Cash por $2496320.0 COP | Total compras pendientes: 4
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Avalanche por $103600.0 COP | Total compras pendientes: 5
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bitcoin Cash por $2496320.0 COP | Total ventas pendientes: 2
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Conflux por $813.784 COP | Total compras pendientes: 6
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende PancakeSwap por $11880.0 COP | Total ventas pendientes: 3
+2025-08-13 22:41:25 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Avalanche por $103600.0 COP | Total ventas pendientes: 4
+2025-08-13 22:41:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pepe por $0.052 COP | Total compras pendientes: 1
+2025-08-13 22:41:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pepe por $0.052 COP | Total ventas pendientes: 1
+2025-08-13 22:41:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1600000.0 COP | Total compras pendientes: 2
+2025-08-13 22:41:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Theta Token por $3699.224 COP | Total compras pendientes: 3
+2025-08-13 22:41:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bittensor por $1600000.0 COP | Total ventas pendientes: 2
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cosmos por $19600.0 COP | Total compras pendientes: 1
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bittensor por $1600680.0 COP | Total compras pendientes: 2
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Optimism por $3413.764 COP | Total compras pendientes: 3
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fasttoken por $18280.0 COP | Total compras pendientes: 4
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Fasttoken por $18280.0 COP | Total ventas pendientes: 1
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3992.276 COP | Total compras pendientes: 5
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Shiba Inu por $0.056 COP | Total compras pendientes: 6
+2025-08-13 22:45:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende First Digital USD por $3992.276 COP | Total ventas pendientes: 2
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra XRP por $13320.0 COP | Total compras pendientes: 1
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende XRP por $13320.0 COP | Total ventas pendientes: 1
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stellar por $1849.78 COP | Total compras pendientes: 2
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Story por $23680.0 COP | Total compras pendientes: 3
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aerodrome Finance por $5440.0 COP | Total compras pendientes: 4
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Shiba Inu por $0.056 COP | Total compras pendientes: 5
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5560.0 COP | Total compras pendientes: 6
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Stellar por $1849.78 COP | Total ventas pendientes: 2
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cosmos por $19600.0 COP | Total compras pendientes: 7
+2025-08-13 22:45:17 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Cosmos por $19600.0 COP | Total ventas pendientes: 3
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Binance Coin por $3423120.0 COP | Total compras pendientes: 1
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Uniswap por $48320.0 COP | Total compras pendientes: 2
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 3
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Algorand por $1149.856 COP | Total compras pendientes: 4
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 1
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Uniswap por $48320.0 COP | Total ventas pendientes: 2
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Binance Coin por $3423120.0 COP | Total ventas pendientes: 3
+2025-08-13 22:47:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sui por $16640.0 COP | Total compras pendientes: 5
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra UNUS SED LEO por $37000.0 COP | Total compras pendientes: 1
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1011.0079999999999 COP | Total compras pendientes: 2
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra KuCoin Shares por $53800.0 COP | Total compras pendientes: 3
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Maker por $7972840.0 COP | Total compras pendientes: 4
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Maker por $7972840.0 COP | Total ventas pendientes: 1
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Immutable por $2585.268 COP | Total compras pendientes: 5
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Gala por $76.1 COP | Total compras pendientes: 6
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Gala por $76.1 COP | Total ventas pendientes: 2
+2025-08-13 22:47:19 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Mantle por $4480.0 COP | Total compras pendientes: 7
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sonic (prev. FTM) por $1331.108 COP | Total compras pendientes: 1
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sonic (prev. FTM) por $1331.108 COP | Total ventas pendientes: 1
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1015080.0 COP | Total compras pendientes: 2
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Name Service por $118800.0 COP | Total compras pendientes: 3
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Avalanche por $103760.0 COP | Total compras pendientes: 4
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Arbitrum por $2239.74 COP | Total compras pendientes: 5
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Avalanche por $103760.0 COP | Total ventas pendientes: 2
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Arbitrum por $2239.74 COP | Total ventas pendientes: 3
+2025-08-13 22:49:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Name Service por $118800.0 COP | Total ventas pendientes: 4
+2025-08-13 22:49:52 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Tether por $3996.508 COP | Total compras pendientes: 1
+2025-08-13 22:49:52 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Tether por $3996.508 COP | Total ventas pendientes: 1
+2025-08-13 22:49:52 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3991.808 COP | Total compras pendientes: 2
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stacks por $3229.728 COP | Total compras pendientes: 1
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Stacks por $3229.728 COP | Total ventas pendientes: 1
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Vaulta por $2301.8999999999996 COP | Total compras pendientes: 2
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Flare por $94.908 COP | Total compras pendientes: 3
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra SPX6900 por $7080.0 COP | Total compras pendientes: 4
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Flare por $94.908 COP | Total ventas pendientes: 2
+2025-08-13 22:50:01 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sei por $1453.82 COP | Total compras pendientes: 5
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 1
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bonk por $0.112 COP | Total compras pendientes: 2
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 1
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bonk por $0.112 COP | Total ventas pendientes: 2
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra JasmyCoin por $75.524 COP | Total compras pendientes: 3
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Gala por $76.096 COP | Total compras pendientes: 4
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Uniswap por $48400.0 COP | Total compras pendientes: 5
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aerodrome Finance por $5440.0 COP | Total compras pendientes: 6
+2025-08-13 22:50:44 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97520.0 COP | Total compras pendientes: 7
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra UNUS SED LEO por $37000.0 COP | Total compras pendientes: 1
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende UNUS SED LEO por $37000.0 COP | Total ventas pendientes: 1
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 2
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende PancakeSwap por $11880.0 COP | Total ventas pendientes: 2
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra TRON por $1457.756 COP | Total compras pendientes: 3
+2025-08-13 22:50:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 4
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 1
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende PancakeSwap por $11880.0 COP | Total ventas pendientes: 1
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Maker por $7979920.0 COP | Total compras pendientes: 2
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11880.0 COP | Total compras pendientes: 3
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Maker por $7979920.0 COP | Total ventas pendientes: 2
+2025-08-13 22:50:57 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende PancakeSwap por $11880.0 COP | Total ventas pendientes: 3
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Optimism por $3410.2039999999997 COP | Total compras pendientes: 1
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Optimism por $3410.2039999999997 COP | Total ventas pendientes: 1
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cosmos por $19600.0 COP | Total compras pendientes: 2
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Cosmos por $19600.0 COP | Total ventas pendientes: 2
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Algorand por $1149.288 COP | Total compras pendientes: 3
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Algorand por $1149.288 COP | Total ventas pendientes: 3
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra The Graph por $410.8 COP | Total compras pendientes: 4
+2025-08-13 22:51:04 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende The Graph por $410.8 COP | Total ventas pendientes: 4
+2025-08-13 22:51:13 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5560.0 COP | Total compras pendientes: 1
+2025-08-13 22:51:13 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Virtual Protocol por $5560.0 COP | Total ventas pendientes: 1
+2025-08-13 22:51:13 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra JasmyCoin por $75.524 COP | Total compras pendientes: 2
+2025-08-13 22:51:13 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende JasmyCoin por $75.524 COP | Total ventas pendientes: 2
+2025-08-13 23:07:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Aave por $1358040.0 COP | Total compras pendientes: 1
+2025-08-13 23:07:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Aave por $1358040.0 COP | Total ventas pendientes: 1
+2025-08-13 23:07:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1012.864 COP | Total compras pendientes: 2
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra dogwifhat por $4240.0 COP | Total compras pendientes: 1
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Lido DAO por $6000.0 COP | Total compras pendientes: 2
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Lido DAO por $6000.0 COP | Total ventas pendientes: 1
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Raydium por $15920.0 COP | Total compras pendientes: 3
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 4
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende dogwifhat por $4240.0 COP | Total ventas pendientes: 2
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Classic por $97320.0 COP | Total compras pendientes: 5
+2025-08-13 23:07:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Cosmos por $19600.0 COP | Total compras pendientes: 6
+2025-08-13 23:13:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1010.548 COP | Total compras pendientes: 1
+2025-08-13 23:13:50 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3991.4559999999997 COP | Total compras pendientes: 2
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bitcoin Cash por $2492120.0 COP | Total compras pendientes: 1
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bitcoin Cash por $2492120.0 COP | Total ventas pendientes: 1
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Name Service por $118760.0 COP | Total compras pendientes: 2
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Name Service por $118760.0 COP | Total ventas pendientes: 2
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dogecoin por $1008.924 COP | Total compras pendientes: 3
+2025-08-13 23:15:07 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra dogwifhat por $4240.0 COP | Total compras pendientes: 4
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra IOTA por $892.248 COP | Total compras pendientes: 1
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra SPX6900 por $7080.0 COP | Total compras pendientes: 2
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pudgy Penguins por $152.264 COP | Total compras pendientes: 3
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bonk por $0.112 COP | Total compras pendientes: 4
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3992.0879999999997 COP | Total compras pendientes: 5
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende SPX6900 por $7080.0 COP | Total ventas pendientes: 1
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fasttoken por $18280.0 COP | Total compras pendientes: 6
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende IOTA por $892.248 COP | Total ventas pendientes: 2
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pepe por $0.048 COP | Total compras pendientes: 7
+2025-08-13 23:15:34 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Celestia por $8119.999999999999 COP | Total compras pendientes: 8
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bonk por $0.112 COP | Total compras pendientes: 1
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Bonk por $0.112 COP | Total ventas pendientes: 1
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fartcoin por $4560.0 COP | Total compras pendientes: 2
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pudgy Penguins por $152.264 COP | Total compras pendientes: 3
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pi por $1623.3120000000001 COP | Total compras pendientes: 4
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Theta Token por $3691.808 COP | Total compras pendientes: 5
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pi por $1623.3120000000001 COP | Total ventas pendientes: 2
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Conflux por $804.212 COP | Total compras pendientes: 6
+2025-08-13 23:16:08 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pudgy Penguins por $152.264 COP | Total ventas pendientes: 3
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Sui por $16560.0 COP | Total compras pendientes: 1
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Sui por $16560.0 COP | Total ventas pendientes: 1
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5520.0 COP | Total compras pendientes: 2
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Virtual Protocol por $5520.0 COP | Total ventas pendientes: 2
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ondo por $4400.0 COP | Total compras pendientes: 3
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ondo por $4400.0 COP | Total ventas pendientes: 3
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Kaspa por $401.36 COP | Total compras pendientes: 4
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Kaspa por $401.36 COP | Total ventas pendientes: 4
+2025-08-13 23:16:53 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Avalanche por $103480.0 COP | Total compras pendientes: 5
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Render por $16800.0 COP | Total compras pendientes: 1
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Render por $16800.0 COP. Saldo actual: $9983200 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Pi por $1622.104 COP | Total compras pendientes: 2
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Pi por $1622.104 COP. Saldo actual: $9981577 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11800.0 COP | Total compras pendientes: 3
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: PancakeSwap por $11800.0 COP. Saldo actual: $9969777 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Dai por $3998.9880000000003 COP | Total compras pendientes: 4
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Dai por $3998.9880000000003 COP. Saldo actual: $9965778 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Render por $16800.0 COP | Total ventas pendientes: 1
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Render por $16800.0 COP. Saldo actual: $9982578 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bonk por $0.112 COP | Total compras pendientes: 5
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Bonk por $0.112 COP. Saldo actual: $9982577 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Theta Token por $3696.38 COP | Total compras pendientes: 6
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Theta Token por $3696.38 COP. Saldo actual: $9978880 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Pi por $1622.104 COP | Total ventas pendientes: 2
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Pi por $1622.104 COP. Saldo actual: $9980502 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Theta Token por $3696.38 COP | Total ventas pendientes: 3
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Theta Token por $3696.38 COP. Saldo actual: $9984198 COP
+2025-08-13 23:25:16 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Dai por $3998.9880000000003 COP | Total ventas pendientes: 4
+2025-08-13 23:25:16 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Dai por $3998.9880000000003 COP. Saldo actual: $9988196 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Gala por $76.184 COP | Total compras pendientes: 1
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Gala por $76.184 COP. Saldo actual: $9999923 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Monero por $1013880.0 COP | Total compras pendientes: 2
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Monero por $1013880.0 COP. Saldo actual: $8986043 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Theta Token por $3696.5080000000003 COP | Total compras pendientes: 3
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Theta Token por $3696.5080000000003 COP. Saldo actual: $8982346 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 4
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Ethena USDe por $4000.0 COP. Saldo actual: $8978346 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra The Graph por $411.67199999999997 COP | Total compras pendientes: 5
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: The Graph por $411.67199999999997 COP. Saldo actual: $8977934 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Stacks por $3223.192 COP | Total compras pendientes: 6
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Stacks por $3223.192 COP. Saldo actual: $8974710 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 1
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Ethena USDe por $4000.0 COP. Saldo actual: $8978710 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Theta Token por $3696.5080000000003 COP | Total ventas pendientes: 2
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Theta Token por $3696.5080000000003 COP. Saldo actual: $8982406 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Gala por $76.184 COP | Total ventas pendientes: 3
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Gala por $76.184 COP. Saldo actual: $8982482 COP
+2025-08-13 23:34:29 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Shiba Inu por $0.056 COP | Total compras pendientes: 7
+2025-08-13 23:34:29 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Shiba Inu por $0.056 COP. Saldo actual: $8982481 COP
+2025-08-13 23:42:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Litecoin por $534400.0 COP | Total compras pendientes: 1
+2025-08-13 23:42:32 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Litecoin por $534400.0 COP. Saldo actual: $9465600 COP
+2025-08-13 23:42:32 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Litecoin por $534400.0 COP | Total ventas pendientes: 1
+2025-08-13 23:42:32 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Litecoin por $534400.0 COP. Saldo actual: $10000000 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra TON Station por $1555.764 COP | Total compras pendientes: 1
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Compra realizada: TON Station por $1555.764 COP. Saldo actual: $9998444 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende TON Station por $1555.764 COP | Total ventas pendientes: 1
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Venta realizada: TON Station por $1555.764 COP. Saldo actual: $9999999 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethereum Name Service por $118240.0 COP | Total compras pendientes: 2
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Ethereum Name Service por $118240.0 COP. Saldo actual: $9881759 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethereum Name Service por $118240.0 COP | Total ventas pendientes: 2
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Ethereum Name Service por $118240.0 COP. Saldo actual: $9999999 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11800.0 COP | Total compras pendientes: 3
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Compra realizada: PancakeSwap por $11800.0 COP. Saldo actual: $9988199 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Lido DAO por $5920.0 COP | Total compras pendientes: 4
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Lido DAO por $5920.0 COP. Saldo actual: $9982279 COP
+2025-08-13 23:42:43 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende PancakeSwap por $11800.0 COP | Total ventas pendientes: 3
+2025-08-13 23:42:43 [main] INFO  parcial1.Model.Transacciones - Venta realizada: PancakeSwap por $11800.0 COP. Saldo actual: $9994079 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3991.5319999999997 COP | Total compras pendientes: 1
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Compra realizada: First Digital USD por $3991.5319999999997 COP. Saldo actual: $9996008 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende First Digital USD por $3991.5319999999997 COP | Total ventas pendientes: 1
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Venta realizada: First Digital USD por $3991.5319999999997 COP. Saldo actual: $9999999 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra PancakeSwap por $11800.0 COP | Total compras pendientes: 2
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Compra realizada: PancakeSwap por $11800.0 COP. Saldo actual: $9988199 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Flare por $95.196 COP | Total compras pendientes: 3
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Flare por $95.196 COP. Saldo actual: $9988103 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Flare por $95.196 COP | Total ventas pendientes: 2
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Flare por $95.196 COP. Saldo actual: $9988198 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Ethena USDe por $4000.0 COP | Total compras pendientes: 4
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Ethena USDe por $4000.0 COP. Saldo actual: $9984198 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Ethena USDe por $4000.0 COP | Total ventas pendientes: 3
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Ethena USDe por $4000.0 COP. Saldo actual: $9988198 COP
+2025-08-13 23:42:51 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Bitget Token por $19520.0 COP | Total compras pendientes: 5
+2025-08-13 23:42:51 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Bitget Token por $19520.0 COP. Saldo actual: $9968678 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Conflux por $804.1120000000001 COP | Total compras pendientes: 1
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Conflux por $804.1120000000001 COP. Saldo actual: $9999195 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Conflux por $804.1120000000001 COP | Total ventas pendientes: 1
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Conflux por $804.1120000000001 COP. Saldo actual: $9999999 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Worldcoin por $4520.0 COP | Total compras pendientes: 2
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Worldcoin por $4520.0 COP. Saldo actual: $9995479 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Maker por $7939320.0 COP | Total compras pendientes: 3
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Maker por $7939320.0 COP. Saldo actual: $2056159 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Maker por $7939320.0 COP | Total ventas pendientes: 2
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Maker por $7939320.0 COP. Saldo actual: $9995479 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra First Digital USD por $3991.5319999999997 COP | Total compras pendientes: 4
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: First Digital USD por $3991.5319999999997 COP. Saldo actual: $9991487 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende First Digital USD por $3991.5319999999997 COP | Total ventas pendientes: 3
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Venta realizada: First Digital USD por $3991.5319999999997 COP. Saldo actual: $9995478 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Avalanche por $103080.0 COP | Total compras pendientes: 5
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Avalanche por $103080.0 COP. Saldo actual: $9892398 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fasttoken por $18280.0 COP | Total compras pendientes: 6
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Fasttoken por $18280.0 COP. Saldo actual: $9874118 COP
+2025-08-13 23:43:06 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Fasttoken por $18280.0 COP | Total ventas pendientes: 4
+2025-08-13 23:43:06 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Fasttoken por $18280.0 COP. Saldo actual: $9892398 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Jito Staked SOL por $1020000.0 COP | Total compras pendientes: 1
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Jito Staked SOL por $1020000.0 COP. Saldo actual: $8980000 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Jito Staked SOL por $1020000.0 COP | Total ventas pendientes: 1
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Jito Staked SOL por $1020000.0 COP. Saldo actual: $10000000 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Filecoin por $10920.0 COP | Total compras pendientes: 2
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Filecoin por $10920.0 COP. Saldo actual: $9989080 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra OFFICIAL TRUMP por $39800.0 COP | Total compras pendientes: 3
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Compra realizada: OFFICIAL TRUMP por $39800.0 COP. Saldo actual: $9949280 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende OFFICIAL TRUMP por $39800.0 COP | Total ventas pendientes: 2
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Venta realizada: OFFICIAL TRUMP por $39800.0 COP. Saldo actual: $9989080 COP
+2025-08-13 23:43:15 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Internet Computer (IOU) por $24120.0 COP | Total compras pendientes: 4
+2025-08-13 23:43:15 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Internet Computer (IOU) por $24120.0 COP. Saldo actual: $9964960 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Virtual Protocol por $5560.0 COP | Total compras pendientes: 1
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Virtual Protocol por $5560.0 COP. Saldo actual: $9994440 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Fetch.ai por $3052.4 COP | Total compras pendientes: 2
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Fetch.ai por $3052.4 COP. Saldo actual: $9991387 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Fetch.ai por $3052.4 COP | Total ventas pendientes: 1
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Fetch.ai por $3052.4 COP. Saldo actual: $9994439 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra Render por $16640.0 COP | Total compras pendientes: 3
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Compra realizada: Render por $16640.0 COP. Saldo actual: $9977799 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Render por $16640.0 COP | Total ventas pendientes: 2
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Render por $16640.0 COP. Saldo actual: $9994439 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende Virtual Protocol por $5560.0 COP | Total ventas pendientes: 3
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Venta realizada: Virtual Protocol por $5560.0 COP. Saldo actual: $9999999 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de compra agregada: Pepe compra KuCoin Shares por $55880.0 COP | Total compras pendientes: 4
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Compra realizada: KuCoin Shares por $55880.0 COP. Saldo actual: $9944119 COP
+2025-08-13 23:54:10 [main] INFO  parcial1.Services.LibroOrdenes - Orden de venta agregada: Pepe vende KuCoin Shares por $55880.0 COP | Total ventas pendientes: 4
+2025-08-13 23:54:10 [main] INFO  parcial1.Model.Transacciones - Venta realizada: KuCoin Shares por $55880.0 COP. Saldo actual: $9999999 COP

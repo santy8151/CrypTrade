@@ -1,0 +1,54 @@
+
+plugins {
+    // Aplicar el plugin de aplicación para soporte CLI en Java
+    id 'application'
+}
+
+repositories {
+    // Usar Maven Central para resolver dependencias
+    mavenCentral()
+}
+
+dependencies {
+    // -----------------------------
+    // Dependencias de testing
+    // -----------------------------
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.10.0' // especifica versión si no tienes libs.junit.jupiter
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher:1.10.0'
+
+    // -----------------------------
+    // Dependencias de logging
+    // -----------------------------
+    implementation 'org.apache.logging.log4j:log4j-api:2.20.0'
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+    implementation("org.apache.logging.log4j:log4j-core:2.25.1")
+
+    // -----------------------------
+    // Dependencias utilitarias
+    // -----------------------------
+    implementation 'org.apache.commons:commons-collections4:4.5.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.google.guava:guava:32.1.2-jre' // libs.guava reemplazado por dependencia Maven
+
+    // -----------------------------
+    // Otras dependencias necesarias
+    // -----------------------------
+    // Puedes agregarlas aquí si es necesario
+}
+
+// Configuración de Java Toolchain
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+// Configuración del plugin de aplicación
+application {
+    mainClass = 'parcial1.App'
+}
+
+// Configuración de tareas de test
+tasks.named('test') {
+    useJUnitPlatform()
+}
